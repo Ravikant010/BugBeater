@@ -1,0 +1,15 @@
+# Root node_modules
+node_modules/
+
+# Client folder
+/client/
+/client/node_modules/
+
+# Server folder
+/server/
+/server/node_modules/
+
+# Environment files
+.env
+/client/.env
+/server/.env
